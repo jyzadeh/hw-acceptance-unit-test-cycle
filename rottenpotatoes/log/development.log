@@ -1072,3 +1072,5 @@ Started GET "/movies/new" for ::1 at 2018-10-17 18:21:09 -0700
 Processing by MoviesController#new as HTML
   Rendered movies/new.html.haml within layouts/application (15.2ms)
 Completed 200 OK in 34ms (Views: 33.7ms | ActiveRecord: 0.0ms)
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
