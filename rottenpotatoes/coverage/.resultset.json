@@ -105,7 +105,7 @@
         null
       ]
     },
-    "timestamp": 1539831322
+    "timestamp": 1539856841
   },
   "RSpec": {
     "coverage": {
@@ -117,7 +117,7 @@
         1,
         null,
         1,
-        0,
+        2,
         null,
         null
       ],
@@ -186,12 +186,12 @@
         null,
         null,
         1,
-        0,
-        0,
-        0,
-        0,
+        2,
+        2,
+        1,
+        1,
         null,
-        0,
+        1,
         null,
         null,
         null,
@@ -205,14 +205,14 @@
       "/Users/jake/Documents/School/Fall 2018/Software Engineering/Homework/5/rottenpotatoes/app/models/movie.rb": [
         1,
         1,
-        1,
+        0,
         null,
         1,
-        0,
+        3,
         null,
         null
       ]
     },
-    "timestamp": 1539831549
+    "timestamp": 1539856860
   }
 }
